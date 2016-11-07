@@ -14,3 +14,4 @@ This is the best run organised club evening of the week, when the organiser is n
 ## #buffsontour
 I can copy from Word documents, although can't upload photos.
 
+That said, I can't copy and paste tables, can do links but when I test the link I lose the page. Updates incredibly slow, interesting to see how easy to update race details.
